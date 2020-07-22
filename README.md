@@ -18,6 +18,8 @@ If you use this code, please cite the paper using the reference below:
 
 BibTeX entry:
 
+***
+
 @misc{altnok2020bitlevel,
     title={Bit-level Parallelization of 3DES Encryption on GPU},
     author={Kaan Furkan Altınok and Afşin Peker and Alptekin Temizel},
