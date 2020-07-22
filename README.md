@@ -17,7 +17,7 @@ If you use this code, please cite the paper using the reference below:
 >Encryption on GPU", arXiv:2007.10752, July 2020.
 
 BibTeX entry:
-'''
+```
 @misc{altnok2020bitlevel,
     title={Bit-level Parallelization of 3DES Encryption on GPU},
     author={Kaan Furkan Altınok and Afşin Peker and Alptekin Temizel},
@@ -26,4 +26,4 @@ BibTeX entry:
     archivePrefix={arXiv},
     primaryClass={cs.CR}
 }
-'''
+```
